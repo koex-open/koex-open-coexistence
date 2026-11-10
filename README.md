@@ -35,7 +35,7 @@ Die vorliegenden Texte entstanden in einem menschlich–KI-gestützten Dialog un
 
 ## Mitmachen
 
-Geplant sind **GitHub Discussions** für offene Diskussionen, **Issues** für nachvollziehbare Fragen und Gegenbeispiele sowie **Pull Requests** für konkrete Textänderungen. Für Beiträge ist keine Zustimmung zu den bestehenden Leitlinien erforderlich.
+Aktiviert sind **GitHub Discussions** für offene Diskussionen, **Issues** für nachvollziehbare Fragen und Gegenbeispiele sowie **Pull Requests** für konkrete Textänderungen. Für Beiträge ist keine Zustimmung zu den bestehenden Leitlinien erforderlich.
 
 **Lizenz:** Eigene veröffentlichte Projekttexte sollen unter [CC BY 4.0](LICENSE.md) geteilt werden, soweit Rechte dafür vorliegen. Die Rechte an zitierten Drittwerken verbleiben bei den jeweiligen Rechteinhabern.
 
