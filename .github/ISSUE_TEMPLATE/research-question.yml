@@ -1,0 +1,26 @@
+name: Research question / Forschungsfrage
+description: New question, neglected perspective, or open research issue
+title: "[Question] "
+labels: [research-question]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question / Fragestellung
+      description: What should be investigated? Avoid asserting an unverified premise as fact.
+    validations:
+      required: true
+  - type: textarea
+    id: background
+    attributes:
+      label: Context and affected parties / Kontext und Betroffene
+    validations:
+      required: true
+  - type: textarea
+    id: counter
+    attributes:
+      label: Counterarguments and unknowns / Gegenargumente und Nichtwissen
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources / Quellen (if available)

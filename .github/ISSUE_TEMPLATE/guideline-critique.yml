@@ -1,0 +1,25 @@
+name: Guideline critique / Leitlinienkritik
+description: Counterexample or challenge to an existing guideline
+title: "[Critique L-xx] "
+labels: [critique]
+body:
+  - type: input
+    id: code
+    attributes:
+      label: Guideline reference (L-xx)
+    validations:
+      required: true
+  - type: textarea
+    id: concern
+    attributes:
+      label: Concern or counterexample
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Which assumptions, affected parties, and interactions might be missing?
+  - type: textarea
+    id: impact
+    attributes:
+      label: Suggested change, or reason to leave this open

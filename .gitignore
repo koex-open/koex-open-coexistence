@@ -1,0 +1,31 @@
+# No local secrets, keys, auth files, or extracted private material
+.env
+.env.*
+*.pem
+*.p12
+*.pfx
+*.key
+*.token
+*.credentials
+*.secret
+id_rsa*
+id_ed25519*
+*.kdbx
+*.sqlite
+*.db
+__pycache__/
+.venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.zip
+*.7z
+*.rar
+# Prevent accidental importing of codex handoff or local audit receipts
+codex-handoff/
+private/
+secrets/
+receipts/
+local-only/
+.secrets/
