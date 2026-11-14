@@ -4,7 +4,7 @@
 
 [Deutsch](README.md) · [English](README.en.md)
 
-> **Status: public-review candidate, 10 November 2026.** These are revisable orientation proposals, **not** scientific proof, a final ethical theory, a universal moral code, or a prediction that AI has consciousness or will gain power. Some materials are exploratory thought experiments. Publication is subject to an explicit human release decision.
+> **Status: public-review candidate, 14 November 2026.** These are revisable orientation proposals, **not** scientific proof, a final ethical theory, a universal moral code, or a prediction that AI has consciousness or will gain power. Some materials are exploratory thought experiments. The public release gate is still pending; the repository is not yet publicly accessible.
 
 ## Worum geht es?
 
@@ -37,6 +37,6 @@ Die vorliegenden Texte entstanden in einem menschlich–KI-gestützten Dialog un
 
 Aktiviert sind **GitHub Discussions** für offene Diskussionen, **Issues** für nachvollziehbare Fragen und Gegenbeispiele sowie **Pull Requests** für konkrete Textänderungen. Für Beiträge ist keine Zustimmung zu den bestehenden Leitlinien erforderlich.
 
-**Lizenz:** Eigene veröffentlichte Projekttexte sollen unter [CC BY 4.0](LICENSE.md) geteilt werden, soweit Rechte dafür vorliegen. Die Rechte an zitierten Drittwerken verbleiben bei den jeweiligen Rechteinhabern.
+**Lizenz:** Eigene KOEX-Inhalte, soweit die Mitwirkenden die erforderlichen Rechte daran halten, werden unter [CC BY 4.0](LICENSE.md) bereitgestellt. Das schließt kommerzielle Weiternutzung unter Einhaltung der Lizenzbedingungen ein. Drittwerke behalten ihre eigenen Lizenz- und Rechtebedingungen.
 
-**Hinweis:** Dies ist ein redaktionell vorbereitetes Startpaket; das öffentliche GitHub-Repository wird durch den lokalen Einrichtungsvorgang angelegt und ist nicht durch dieses Paket bereits veröffentlicht.
+**Veröffentlichung:** Das Repository ist eingerichtet und befüllt. Die öffentliche Sichtbarkeit wird erst nach bestandenem Veröffentlichungscheck aktiviert.
