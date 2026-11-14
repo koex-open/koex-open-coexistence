@@ -4,7 +4,7 @@
 
 [Deutsch](README.md) · [English](README.en.md)
 
-> **Status: public-review candidate, 14 November 2026.** These are revisable orientation proposals, **not** scientific proof, a final ethical theory, a universal moral code, or a prediction that AI has consciousness or will gain power. Some materials are exploratory thought experiments. The public release gate is still pending; the repository is not yet publicly accessible.
+> **Status: public-review version, 14 November 2026.** These are revisable orientation proposals, **not** scientific proof, a final ethical theory, a universal moral code, or a prediction that AI has consciousness or will gain power. Some materials are exploratory thought experiments. The user-approved release check is complete and this repository is public.
 
 ## Worum geht es?
 
@@ -31,7 +31,7 @@ Ziel ist kein Gesellschaftsentwurf, sondern ein **öffentlich kritisierbarer Bei
 
 ## Stand und Evidenz
 
-Die vorliegenden Texte entstanden in einem menschlich–KI-gestützten Dialog und wurden konzeptionell fortgeschrieben. Sie sind **nicht peer-reviewed**. Eigene kontrollierte Multi-Agenten-Experimente sind bisher nicht durchgeführt. Externe Quellen sind in den jeweiligen Forschungsdateien referenziert; die Quellenangaben sollten vor der öffentlichen Freigabe und fortlaufend geprüft werden. Siehe [STATUS.md](STATUS.md) und [SOURCES.md](SOURCES.md).
+Die vorliegenden Texte entstanden in einem menschlich–KI-gestützten Dialog und wurden konzeptionell fortgeschrieben. Sie sind **nicht peer-reviewed**. Eigene kontrollierte Multi-Agenten-Experimente sind bisher nicht durchgeführt. Externe Quellen sind in den jeweiligen Forschungsdateien referenziert; Quellenangaben und Belegzuordnungen werden fortlaufend geprüft. Siehe [STATUS.md](STATUS.md) und [SOURCES.md](SOURCES.md).
 
 ## Mitmachen
 
@@ -39,4 +39,4 @@ Aktiviert sind **GitHub Discussions** für offene Diskussionen, **Issues** für 
 
 **Lizenz:** Eigene KOEX-Inhalte, soweit die Mitwirkenden die erforderlichen Rechte daran halten, werden unter [CC BY 4.0](LICENSE.md) bereitgestellt. Das schließt kommerzielle Weiternutzung unter Einhaltung der Lizenzbedingungen ein. Drittwerke behalten ihre eigenen Lizenz- und Rechtebedingungen.
 
-**Veröffentlichung:** Das Repository ist eingerichtet und befüllt. Die öffentliche Sichtbarkeit wird erst nach bestandenem Veröffentlichungscheck aktiviert.
+**Veröffentlichung:** Dieses Repository ist öffentlich zugänglich. Eine vollständige unabhängige Quellenprüfung oder wissenschaftliche Validierung wird nicht behauptet; offene Prüfaufgaben bleiben sichtbar.

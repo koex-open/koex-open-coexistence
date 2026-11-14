@@ -21,6 +21,6 @@ Our particular focus includes extreme power asymmetry, how consideration of othe
 
 ## How to contribute
 
-After publication, open a GitHub Discussion for a question, an Issue for a specific gap or critique, or a Pull Request proposing edits. **Disagreement is welcome**; changes should name their assumptions, affected groups, counterexamples, evidence level, and remaining unknowns.
+Use a GitHub Discussion for a question, an Issue for a specific gap or critique, or a Pull Request proposing edits. **Disagreement is welcome**; changes should name their assumptions, affected groups, counterexamples, evidence level, and remaining unknowns.
 
 The source material emerged from human–AI collaborative drafting. It is preliminary and not peer-reviewed. No original multi-agent experimental runs are claimed. See [STATUS.md](STATUS.md), [SOURCES.md](SOURCES.md), and [LICENSE.md](LICENSE.md).

@@ -1,5 +1,11 @@
 # KOEX changelog
 
+## Public release — 2026-11-14
+
+- The repository was made public after the user-approved technical and source/citation screening. Issues, Discussions, and Pull Requests are available.
+- The public review does not claim an independent full source audit or complete scientific validation. Open bibliographic and claim-mapping questions remain ongoing research tasks.
+- A simple protection rule on `main` blocks force pushes and branch deletion without requiring pull requests, reviews, or status checks.
+
 ## Public-repository preparation — 2026-11-10 (not yet released)
 
 - Reorganized historical KOEX-00–06 Markdown research documents into traceable folders.
