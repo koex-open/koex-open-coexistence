@@ -6,4 +6,6 @@ A discussion about possible moral relevance of AI must not be used to trivialize
 
 Project maintainers may moderate content to maintain constructive discussion, while recording substantive decisions when practical. GitHub's platform rules also apply.
 
-To report an issue with a contributor, use the private contact channel configured in the GitHub repository **after it has been created**; until then, do not publish private allegations or personal information. No private contact address is claimed to exist in this draft.
+General project questions and substantive criticism may be raised through GitHub Issues or Discussions.
+
+There is currently no dedicated confidential KOEX reporting channel. Do not post personal or confidential allegations in public Issues or Discussions. A separate confidential contact route may be added later if needed.
