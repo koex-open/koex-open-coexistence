@@ -1,5 +1,13 @@
 # KOEX changelog
 
+## Community navigation and research tasks — 2026-11-23
+
+- Added original editable SVG assets (`assets/koex-mark.svg`, `assets/koex-banner.svg`) and included them in community and README pages.
+- Updated German and English entry pages with reader-oriented links to guidelines, context, research, community, and contribution information.
+- Added `community/README.md`, `community/README.en.md` and five bilingual topic drafts in `community/topics/`, explicitly **not** yet live GitHub Discussion threads.
+- Opened [Issue #2](https://github.com/koex-open/koex-open-coexistence/issues/2) for independent claim-to-source review and [Issue #3](https://github.com/koex-open/koex-open-coexistence/issues/3) for empirical protocol design.
+- No changes to the content or status of guidelines; repository topics and GitHub Discussion thread creation remain pending platform-level actions.
+
 ## Community invitation — 2026-11-23
 
 - Opened [Issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1) as a bilingual invitation for criticisms, alternative perspectives, missing affected parties, and counterexamples.
