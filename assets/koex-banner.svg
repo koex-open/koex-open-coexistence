@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+<title id="title">KOEX – Open Coexistence</title>
+<desc id="desc">Dark slate banner with understated lettering and a decentralized constellation of different but equally sized nodes.</desc>
+<rect width="960" height="240" rx="18" fill="#203544"/>
+<path d="M34 204H550" fill="none" stroke="#7E999A" stroke-opacity=".35"/>
+<text x="48" y="65" fill="#AFBEC1" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="4">OPEN RESEARCH · OPEN QUESTIONS</text>
+<text x="47" y="145" fill="#F5F5F0" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="78" letter-spacing="4">KOEX</text>
+<text x="52" y="191" fill="#D1DEE0" font-family="Arial,Helvetica,sans-serif" font-size="25" letter-spacing="1">Open Coexistence</text>
+<g fill="none" stroke-linecap="round" stroke-width="5">
+<path d="M688 73 Q778 31 856 78" stroke="#8AA8AC"/>
+<path d="M868 99 Q905 146 853 189" stroke="#9BAAAA"/>
+<path d="M835 198 Q757 226 683 185" stroke="#8AA8AC"/>
+<path d="M672 164 Q625 124 680 89" stroke="#9BAAAA"/>
+<path d="M693 93 Q773 142 841 179" stroke="#829DA4" opacity=".7"/>
+<path d="M840 95 Q775 137 693 173" stroke="#93AEB1" opacity=".6"/>
+</g>
+<circle cx="681" cy="79" r="23" fill="#7299A0" stroke="#203544" stroke-width="5"/>
+<circle cx="858" cy="84" r="23" fill="#C2AB88" stroke="#203544" stroke-width="5"/>
+<circle cx="677" cy="178" r="23" fill="#9BADAB" stroke="#203544" stroke-width="5"/>
+<circle cx="848" cy="192" r="23" fill="#476D7D" stroke="#203544" stroke-width="5"/>
+</svg>
