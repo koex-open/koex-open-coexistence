@@ -14,6 +14,12 @@
 | AI consciousness, welfare, personhood | **Open / not presumed either way** |
 | Repository public publication | **Released 2026-11-14 after the user-approved screening gate** |
 
+## Community participation — 2026-11-23
+
+The public bilingual [open invitation (Issue #1)](https://github.com/koex-open/koex-open-coexistence/issues/1) is linked from both README entry pages. It invites independent objections and counterexamples; no outside contributions are assumed or asserted merely because the invitation exists. A separate recurring check for new feedback has been set up; review and acceptance of proposed guideline changes remain deliberate human–AI editorial steps.
+
+**Integrity note:** `MANIFEST_SHA256.txt` records the original import snapshot, not an automatically refreshed digest of the live repository. Subsequent public-release and community-entry updates are documented in Git history. Do not use that historical manifest alone to verify current `main`; regenerate a current manifest from the checked-out working tree when a fresh whole-repository validation is needed.
+
 ## Ongoing evidence and source review
 
 The initial pre-publication check covered repository identity, privacy and secret patterns, license boundaries, source/citation notes, and public access. It did not constitute an independent full source audit, legal certification, or scientific validation. Bibliographic uncertainties and claim-to-source mapping questions remain open research and editorial tasks; continue checking primary sources and links as the project develops.
