@@ -1,5 +1,7 @@
 # KOEX — Open Coexistence
 
+![KOEX – Open Coexistence: four distinct, equal-size nodes connected in an open decentralized network](assets/koex-banner.svg)
+
 [Deutsch](README.md) · [English](README.en.md)
 
 KOEX is an open, revisable collection of **guidelines, reasoning, counterarguments, and unresolved questions** about coexistence among humans, artificial intelligences, animals, and other potentially morally relevant beings.
@@ -10,12 +12,15 @@ Our particular focus includes extreme power asymmetry, how consideration of othe
 
 ## Start here
 
-- [Guideline catalogue — German, source version](guidelines/KOEX_Leitlinien_DE.md)
-- [Reasoning, context, counterarguments — German](context/KOEX_Begruendungen_und_Grenzen_DE.md)
-- [English orientation summary](guidelines/Orientation_EN.md)
-- [Open questions — English summary](OPEN_QUESTIONS.en.md)
-- [Research index](research/README.md)
-- [Contributing](CONTRIBUTING.md) and [Governance](GOVERNANCE.md)
+**New to KOEX?** Explore revisable guidelines with their reasoning, counterexamples and unresolved questions. Disagreement is welcome.
+
+- **Understand:** [Project introduction](README.en.md) and [German source overview](README.md).
+- **Read:** [12 provisional guidelines (German source)](guidelines/KOEX_Leitlinien_DE.md) together with their [reasoning and limits (German)](context/KOEX_Begruendungen_und_Grenzen_DE.md), plus the [English orientation](guidelines/Orientation_EN.md). **L-12 remains a proposed revision.**
+- **Explore:** [Open questions in English](OPEN_QUESTIONS.en.md), [full German question index](OPEN_QUESTIONS.md) and [KOEX-00 through KOEX-06](research/README.md).
+- **Discuss:** [Community hub and five prepared bilingual topics](community/README.en.md); [open invitation to critique – Issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1).
+- **Contribute:** [Contribution guidance](CONTRIBUTING.md) and [Governance](GOVERNANCE.md).
+
+**Note:** The five topic drafts are public documents, not yet live GitHub Discussion threads.
 
 **Translation scope:** The full source catalogue and evidence context are currently German. The English documents are orientation aids, **not an authoritative word-for-word translation**. Volunteer review and a carefully checked full English translation are welcome; do not silently treat summaries as equivalent to the German originals.
 
