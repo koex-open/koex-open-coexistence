@@ -19,6 +19,11 @@ These texts are **published as topic drafts, not yet as live GitHub Discussion t
 4. [Coexistence among different AI systems](topics/04_multi_ai_coexistence.md) (Q-10/Q-11; L-08).
 5. [Limits of knowledge and certainty](topics/05_epistemic_limits.md) (Q-08/Q-16; draft L-12).
 
+## Concrete research tasks
+
+- [Issue #2 – Primary-source and evidence audit](https://github.com/koex-open/koex-open-coexistence/issues/2).
+- [Issue #3 – Design observable, action-based evaluation protocols](https://github.com/koex-open/koex-open-coexistence/issues/3).
+
 ## Participation routes
 
 Use **Discussions** for open-ended debate, **Issues** for specific verifiable questions or missing evidence, and **Pull Requests** for concrete edits with accompanying reasoning. Distinguish philosophical arguments, evidence and thought experiments. KOEX does not assume or deny AI consciousness or moral patienthood.
