@@ -19,6 +19,11 @@ Die folgenden Themen sind **redaktionell vorbereitet, aber noch nicht als GitHub
 4. [Koexistenz zwischen mehreren KI-Systemen](topics/04_multi_ai_coexistence.md) (Q-10/Q-11; L-08).
 5. [Erkenntnisgrenzen und übertriebene Gewissheit](topics/05_epistemic_limits.md) (Q-08/Q-16; L-12-Entwurf).
 
+## Konkrete Forschungsaufgaben
+
+- [Issue #2 – Quellen- und Evidenzprüfung](https://github.com/koex-open/koex-open-coexistence/issues/2): konkrete Behauptungen und Primärquellen überprüfen.
+- [Issue #3 – Handlungsbezogene Prüfszenarien](https://github.com/koex-open/koex-open-coexistence/issues/3): ein überprüfbares Testkonzept entwickeln, ohne Simulationen vorzutäuschen.
+
 ## Wie mitmachen?
 
 - **Discussion:** philosophische Fragen, offene Debatten und alternative Ansätze.
