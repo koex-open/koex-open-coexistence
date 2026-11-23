@@ -1,5 +1,7 @@
 # Community discussions / Offene Diskussion
 
+![KOEX – four different nodes in an open interconnected structure](../assets/koex-mark.svg)
+
 KOEX welcomes **criticism, counterexamples, missing perspectives and alternative approaches**. The draft guidelines do not require agreement. Beiträge auf Deutsch und Englisch sind willkommen.
 
 ## Take part now
