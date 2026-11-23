@@ -1,5 +1,12 @@
 # KOEX changelog
 
+## Community invitation — 2026-11-23
+
+- Opened [Issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1) as a bilingual invitation for criticisms, alternative perspectives, missing affected parties, and counterexamples.
+- Linked that invitation from both `README.md` and `README.en.md`.
+- No KOEX guideline wording or research conclusion was changed.
+
+
 ## Public release — 2026-11-14
 
 - The repository was made public after the user-approved technical and source/citation screening. Issues, Discussions, and Pull Requests are available.
