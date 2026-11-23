@@ -35,6 +35,9 @@ Die vorliegenden Texte entstanden in einem menschlich–KI-gestützten Dialog un
 
 ## Mitmachen
 
+**Offene Einladung zur Kritik:** [Welche Annahmen oder Perspektiven übersieht KOEX? – öffentliches Diskussions-Issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1). Einwände, Gegenbeispiele und alternative Perspektiven sind ausdrücklich willkommen, auch ohne Zustimmung zu den bestehenden Leitlinien.
+
+
 Aktiviert sind **GitHub Discussions** für offene Diskussionen, **Issues** für nachvollziehbare Fragen und Gegenbeispiele sowie **Pull Requests** für konkrete Textänderungen. Für Beiträge ist keine Zustimmung zu den bestehenden Leitlinien erforderlich.
 
 **Lizenz:** Eigene KOEX-Inhalte, soweit die Mitwirkenden die erforderlichen Rechte daran halten, werden unter [CC BY 4.0](LICENSE.md) bereitgestellt. Das schließt kommerzielle Weiternutzung unter Einhaltung der Lizenzbedingungen ein. Drittwerke behalten ihre eigenen Lizenz- und Rechtebedingungen.
