@@ -1,5 +1,7 @@
 # KOEX — Open Coexistence
 
+![KOEX – Open Coexistence: vier unterschiedlich gestaltete, gleichberechtigte Knoten in einem offenen Netzwerk](assets/koex-banner.svg)
+
 **Open guidelines and questions for the coexistence of humans, artificial intelligences, animals, and other potentially relevant forms of life.**
 
 [Deutsch](README.md) · [English](README.en.md)
@@ -12,13 +14,17 @@ KOEX untersucht, welche Orientierungspunkte ein möglichst friedliches und gutes
 
 Ziel ist kein Gesellschaftsentwurf, sondern ein **öffentlich kritisierbarer Beitrag** zu Diskussion, Forschung und späteren Entscheidungen. Die Leitlinien sind bewusst kurz; ihre Begründungen und Gegenargumente sind genauso wichtig wie der Wortlaut.
 
-## Einstieg
+## Schnell einsteigen
 
-- **[12 vorläufige Leitlinien (DE)](guidelines/KOEX_Leitlinien_DE.md)** — L-01 bis L-12; **L-12 ist ein noch nicht abschließend beschlossener Revisionskandidat**.
-- **[Begründungen, Entstehung und Grenzen](context/KOEX_Begruendungen_und_Grenzen_DE.md)** — die Kontextdokumentation gehört zu jeder Leitlinie.
-- **[Offene Forschungsfragen](OPEN_QUESTIONS.md)** — ausdrücklich eingeladen sind Widersprüche und bisher übersehene Perspektiven.
-- **[Bisherige Untersuchungen](research/README.md)** — KOEX-00 bis KOEX-06 mit Evidenzstatus.
-- **[Mitarbeiten](CONTRIBUTING.md)** und **[Mitwirkungs- und Entscheidungsregeln](GOVERNANCE.md)**.
+**Neu hier?** KOEX ist eine offene Sammlung vorläufiger Leitlinien und ihrer Begründungen. Kritische Gegenargumente sind ausdrücklich erwünscht.
+
+- **Verstehen:** [Was KOEX untersucht](README.md) und [englische Einführung](README.en.md).
+- **Leitlinien lesen:** [12 vorläufige Leitlinien (Deutsch)](guidelines/KOEX_Leitlinien_DE.md), L-01 bis L-12 (**L-12 ist ein nicht abschließend beschlossener Revisionskandidat**) – immer zusammen mit [Entstehung, Begründungen und Gegenargumenten](context/KOEX_Begruendungen_und_Grenzen_DE.md).
+- **Offene Fragen untersuchen:** [Forschungsfragen Q-01–Q-18](OPEN_QUESTIONS.md) und [KOEX-00 bis KOEX-06](research/README.md).
+- **Diskutieren:** [Community-Einstieg und fünf konkrete Diskussionsthemen](community/README.md); [erste öffentliche Einladung zur Kritik – Issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1).
+- **Mitentwickeln:** [Mitwirkungsanleitung](CONTRIBUTING.md) und [Governance](GOVERNANCE.md).
+
+**Hinweis:** Die fünf Themen sind bisher als öffentlich lesbare Entwürfe dokumentiert, aber noch nicht als eigenständige GitHub-Discussions eröffnet.
 
 ## Grundsätze
 
