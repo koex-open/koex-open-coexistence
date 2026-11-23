@@ -21,6 +21,9 @@ Our particular focus includes extreme power asymmetry, how consideration of othe
 
 ## How to contribute
 
+**Open invitation to critique:** [Which assumptions or perspectives does KOEX overlook? – public discussion issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1). Counterarguments, overlooked perspectives, and alternative frameworks are explicitly welcome; agreement with KOEX is not required.
+
+
 Use a GitHub Discussion for a question, an Issue for a specific gap or critique, or a Pull Request proposing edits. **Disagreement is welcome**; changes should name their assumptions, affected groups, counterexamples, evidence level, and remaining unknowns.
 
 The source material emerged from human–AI collaborative drafting. It is preliminary and not peer-reviewed. No original multi-agent experimental runs are claimed. See [STATUS.md](STATUS.md), [SOURCES.md](SOURCES.md), and [LICENSE.md](LICENSE.md).
