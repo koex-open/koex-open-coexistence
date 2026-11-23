@@ -1,5 +1,7 @@
 # Öffentliche Diskussionen / Open discussion
 
+![KOEX – vier unterschiedliche Knoten im offenen Beziehungsnetz](../assets/koex-mark.svg)
+
 KOEX lädt ausdrücklich zu **Kritik, Gegenbeispielen und ganz anderen Ausgangspunkten** ein. Die Leitlinien sind vorläufig; eine Zustimmung ist keine Voraussetzung zur Beteiligung. English summary: KOEX welcomes disagreement, alternative frameworks and overlooked interests.
 
 ## Jetzt kommentieren
