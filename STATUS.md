@@ -20,6 +20,10 @@ The public bilingual [open invitation (Issue #1)](https://github.com/koex-open/k
 
 **Integrity note:** `MANIFEST_SHA256.txt` records the original import snapshot, not an automatically refreshed digest of the live repository. Subsequent public-release and community-entry updates are documented in Git history. Do not use that historical manifest alone to verify current `main`; regenerate a current manifest from the checked-out working tree when a fresh whole-repository validation is needed.
 
+## Community usability update — 2026-11-23
+
+A distinct KOEX visual identity was added as editable, self-contained SVG files in `assets/`. Both README pages now provide a newcomer-oriented navigation and point to bilingual `community/` pages. Five research discussions are available as public **topic drafts**, **not** as active GitHub Discussion threads. [Issue #2](https://github.com/koex-open/koex-open-coexistence/issues/2) requests primary-source verification; [Issue #3](https://github.com/koex-open/koex-open-coexistence/issues/3) requests an observable-action test design, not experiment results. GitHub Discussions is enabled, but the live threads and repository topics have **not** yet been configured through the available integration. The historical integrity-manifest limitation noted above remains unchanged.
+
 ## Ongoing evidence and source review
 
 The initial pre-publication check covered repository identity, privacy and secret patterns, license boundaries, source/citation notes, and public access. It did not constitute an independent full source audit, legal certification, or scientific validation. Bibliographic uncertainties and claim-to-source mapping questions remain open research and editorial tasks; continue checking primary sources and links as the project develops.
