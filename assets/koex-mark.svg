@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+<title id="title">KOEX – open constellation</title>
+<desc id="desc">Four distinct equal-size nodes connected by open, decentralized paths.</desc>
+<rect width="160" height="160" rx="28" fill="#F4F4F0"/>
+<g fill="none" stroke-linecap="round" stroke-width="4.5">
+<path d="M49 48 Q80 27 108 47" stroke="#668C93"/>
+<path d="M119 59 Q139 83 117 108" stroke="#9EAEAC"/>
+<path d="M106 121 Q79 137 52 120" stroke="#668C93"/>
+<path d="M42 108 Q20 82 40 62" stroke="#9EAEAC"/>
+<path d="M51 60 Q80 80 109 109" stroke="#789CA1" opacity=".72"/>
+<path d="M109 59 Q83 87 53 108" stroke="#A9B8B6" opacity=".65"/>
+</g>
+<circle cx="40" cy="49" r="14" fill="#3B6572" stroke="#F4F4F0" stroke-width="3"/>
+<circle cx="119" cy="49" r="14" fill="#B59B77" stroke="#F4F4F0" stroke-width="3"/>
+<circle cx="40" cy="119" r="14" fill="#78999D" stroke="#F4F4F0" stroke-width="3"/>
+<circle cx="119" cy="119" r="14" fill="#354E60" stroke="#F4F4F0" stroke-width="3"/>
+</svg>
