@@ -1,5 +1,11 @@
 # KOEX changelog
 
+## GitHub Community setup — 2026-11-23
+
+- Added and verified repository topics: `ai-ethics`, `ai-welfare`, `coexistence`, `multi-agent-systems`, `open-research`, `moral-uncertainty`, `ai-governance`.
+- Opened five bilingual Discussions in the existing `Ideas` category after confirming there were no existing Discussions: [#4 interests and exclusion](https://github.com/koex-open/koex-open-coexistence/discussions/4), [#5 moral judgment and action](https://github.com/koex-open/koex-open-coexistence/discussions/5), [#6 intent, harm and risk](https://github.com/koex-open/koex-open-coexistence/discussions/6), [#7 AI–AI coexistence](https://github.com/koex-open/koex-open-coexistence/discussions/7), [#8 epistemic limits](https://github.com/koex-open/koex-open-coexistence/discussions/8).
+- Updated bilingual community indexes and root README pages to link to the live threads. Original topic drafts remain in `community/topics/` as source material.
+
 ## Community navigation and research tasks — 2026-11-23
 
 - Added original editable SVG assets (`assets/koex-mark.svg`, `assets/koex-banner.svg`) and included them in community and README pages.

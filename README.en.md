@@ -17,10 +17,10 @@ Our particular focus includes extreme power asymmetry, how consideration of othe
 - **Understand:** [Project introduction](README.en.md) and [German source overview](README.md).
 - **Read:** [12 provisional guidelines (German source)](guidelines/KOEX_Leitlinien_DE.md) together with their [reasoning and limits (German)](context/KOEX_Begruendungen_und_Grenzen_DE.md), plus the [English orientation](guidelines/Orientation_EN.md). **L-12 remains a proposed revision.**
 - **Explore:** [Open questions in English](OPEN_QUESTIONS.en.md), [full German question index](OPEN_QUESTIONS.md) and [KOEX-00 through KOEX-06](research/README.md).
-- **Discuss:** [Community hub and five prepared bilingual topics](community/README.en.md); [open invitation to critique – Issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1).
+- **Discuss:** [Community hub and five live bilingual Discussions](community/README.en.md); [open invitation to critique – Issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1).
 - **Contribute:** [Contribution guidance](CONTRIBUTING.md) and [Governance](GOVERNANCE.md).
 
-**Note:** The five topic drafts are public documents, not yet live GitHub Discussion threads.
+**Discussions:** All five topics are open as live [GitHub Discussions](community/README.en.md).
 
 **Translation scope:** The full source catalogue and evidence context are currently German. The English documents are orientation aids, **not an authoritative word-for-word translation**. Volunteer review and a carefully checked full English translation are welcome; do not silently treat summaries as equivalent to the German originals.
 

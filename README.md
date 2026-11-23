@@ -21,10 +21,10 @@ Ziel ist kein Gesellschaftsentwurf, sondern ein **öffentlich kritisierbarer Bei
 - **Verstehen:** [Was KOEX untersucht](README.md) und [englische Einführung](README.en.md).
 - **Leitlinien lesen:** [12 vorläufige Leitlinien (Deutsch)](guidelines/KOEX_Leitlinien_DE.md), L-01 bis L-12 (**L-12 ist ein nicht abschließend beschlossener Revisionskandidat**) – immer zusammen mit [Entstehung, Begründungen und Gegenargumenten](context/KOEX_Begruendungen_und_Grenzen_DE.md).
 - **Offene Fragen untersuchen:** [Forschungsfragen Q-01–Q-18](OPEN_QUESTIONS.md) und [KOEX-00 bis KOEX-06](research/README.md).
-- **Diskutieren:** [Community-Einstieg und fünf konkrete Diskussionsthemen](community/README.md); [erste öffentliche Einladung zur Kritik – Issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1).
+- **Diskutieren:** [Community-Einstieg und fünf aktive Diskussionen](community/README.md); [erste öffentliche Einladung zur Kritik – Issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1).
 - **Mitentwickeln:** [Mitwirkungsanleitung](CONTRIBUTING.md) und [Governance](GOVERNANCE.md).
 
-**Hinweis:** Die fünf Themen sind bisher als öffentlich lesbare Entwürfe dokumentiert, aber noch nicht als eigenständige GitHub-Discussions eröffnet.
+**Diskussionen:** Die fünf Themen sind als eigenständige [GitHub-Discussions](community/README.md) eröffnet.
 
 ## Grundsätze
 

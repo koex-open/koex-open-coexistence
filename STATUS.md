@@ -22,7 +22,7 @@ The public bilingual [open invitation (Issue #1)](https://github.com/koex-open/k
 
 ## Community usability update — 2026-11-23
 
-A distinct KOEX visual identity was added as editable, self-contained SVG files in `assets/`. Both README pages now provide a newcomer-oriented navigation and point to bilingual `community/` pages. Five research discussions are available as public **topic drafts**, **not** as active GitHub Discussion threads. [Issue #2](https://github.com/koex-open/koex-open-coexistence/issues/2) requests primary-source verification; [Issue #3](https://github.com/koex-open/koex-open-coexistence/issues/3) requests an observable-action test design, not experiment results. GitHub Discussions is enabled, but the live threads and repository topics have **not** yet been configured through the available integration. The historical integrity-manifest limitation noted above remains unchanged.
+A distinct KOEX visual identity is available as editable, self-contained SVG files in `assets/`. Both README pages provide newcomer-oriented navigation to bilingual `community/` pages. The five bilingual topic drafts are now live as Discussions #4–#8 in the `Ideas` category; the community indexes link each thread and preserve its Markdown source draft. Seven repository topics have been set and read back through the GitHub API. [Issue #2](https://github.com/koex-open/koex-open-coexistence/issues/2) requests primary-source verification; [Issue #3](https://github.com/koex-open/koex-open-coexistence/issues/3) requests an observable-action test design, not experiment results. The historical integrity-manifest limitation noted above remains unchanged.
 
 ## Ongoing evidence and source review
 
