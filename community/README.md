@@ -23,6 +23,10 @@ Die fünf zweisprachigen Themen sind jetzt als GitHub-Discussions in der Kategor
 
 - [Was macht Koexistenz gut? Selbstbestimmung, Wohlergehen, Verteilung und Entwicklung](topics/06_good_coexistence_autonomy_and_development.md) — sieben offene Teilfragen. Der Themenentwurf ist öffentlich; eine eigene Discussion ist noch nicht eröffnet. Bis dahin können Beiträge unter [Issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1) mit Bezug auf KOEX-07 eingestellt werden.
 
+- [Wessen Perspektiven gelangen in Entscheidungen mächtiger Akteure?](topics/07_multispecies_perspectives.md) — neuer zweisprachiger Diskussionsentwurf zu Existenzkonflikten, nichtmenschlichen Erkenntniszugängen und philosophischen Vergleichsperspektiven (KOEX-07.C/H). Fünf offene Teilfragen. Öffentlich lesbar, noch kein eigener Discussion-Thread; Rückmeldungen bis dahin in [Issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1).
+
+**Forschungsgrundlage:** [KOEX-07 – öffentliche Forschungsfassung v0.4](../research/KOEX-07/README.md).
+
 ## Konkrete Forschungsaufgaben
 
 - [Issue #2 – Quellen- und Evidenzprüfung](https://github.com/koex-open/koex-open-coexistence/issues/2): konkrete Behauptungen und Primärquellen überprüfen.
@@ -36,4 +40,4 @@ Die fünf zweisprachigen Themen sind jetzt als GitHub-Discussions in der Kategor
 
 Bitte Argumente, empirische Befunde und Gedankenexperimente unterscheiden. Die Möglichkeit von Erleben oder eigenen Interessen bei KI wird weder vorausgesetzt noch ausgeschlossen. Siehe [Mitwirkungsregeln](../CONTRIBUTING.md), [offene Fragen](../OPEN_QUESTIONS.md) und [Begründungskontext](../context/).
 
-**Status (23.11.2026):** Alle fünf Themen sind als Discussions live. Die sieben Repository-Topics sind gesetzt.
+**Status (24.11.2026):** Die fünf ursprünglichen Themen sind als Discussions verlinkt. Zwei zusätzliche KOEX-07-Themenentwürfe sind öffentlich lesbar; ihre eigenen Discussion-Threads sind noch nicht bestätigt. Die sieben Repository-Topics sind seit dem 23.11.2026 dokumentiert.
