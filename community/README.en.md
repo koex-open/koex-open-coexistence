@@ -19,6 +19,10 @@ The five bilingual topics are now open as GitHub Discussions in the “Ideas” 
 4. [Coexistence among different AI systems](https://github.com/koex-open/koex-open-coexistence/discussions/7) · [topic draft](topics/04_multi_ai_coexistence.md) (Q-10/Q-11; L-08).
 5. [Limits of knowledge and certainty](https://github.com/koex-open/koex-open-coexistence/discussions/8) · [topic draft](topics/05_epistemic_limits.md) (Q-08/Q-16; draft L-12).
 
+## New topic in preparation — KOEX-07
+
+- [What makes coexistence good? Autonomy, welfare, distribution and development](topics/06_good_coexistence_autonomy_and_development.md) — seven open questions. The draft is public; a dedicated Discussion is not yet open. Feedback may meanwhile be posted in [Issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1), referencing KOEX-07.
+
 ## Concrete research tasks
 
 - [Issue #2 – Primary-source and evidence audit](https://github.com/koex-open/koex-open-coexistence/issues/2).
