@@ -24,6 +24,12 @@ Our particular focus includes extreme power asymmetry, how consideration of othe
 
 **Translation scope:** The full source catalogue and evidence context are currently German. The English documents are orientation aids, **not an authoritative word-for-word translation**. Volunteer review and a carefully checked full English translation are welcome; do not silently treat summaries as equivalent to the German originals.
 
+## Current research – KOEX-07 (v0.4)
+
+[**Good coexistence – public research version, 24 November 2026**](research/KOEX-07/README.md): autonomy, safety, distribution, resource and survival conflicts, and nonhuman epistemic perspectives. Includes an English orientation and substantive German chapters. The three guideline functions (orientation, reflection and perspective representation) remain an exploratory methodological proposal; the guidelines are unchanged.
+
+New [bilingual discussion draft: Whose perspectives inform powerful actors?](community/topics/07_multispecies_perspectives.md). Publicly available; dedicated Discussion thread pending.
+
 ## How to contribute
 
 **Open invitation to critique:** [Which assumptions or perspectives does KOEX overlook? – public discussion issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1). Counterarguments, overlooked perspectives, and alternative frameworks are explicitly welcome; agreement with KOEX is not required.
