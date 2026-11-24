@@ -23,6 +23,10 @@ The five bilingual topics are now open as GitHub Discussions in the “Ideas” 
 
 - [What makes coexistence good? Autonomy, welfare, distribution and development](topics/06_good_coexistence_autonomy_and_development.md) — seven open questions. The draft is public; a dedicated Discussion is not yet open. Feedback may meanwhile be posted in [Issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1), referencing KOEX-07.
 
+- [Whose perspectives inform powerful actors?](topics/07_multispecies_perspectives.md) — new bilingual discussion draft on resource and survival conflicts, nonhuman epistemic access, and comparative ethics (KOEX-07.C/H). Five open questions. Publicly readable, dedicated Discussion thread pending; feedback meanwhile in [Issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1).
+
+**Research background:** [KOEX-07 – public working version v0.4](../research/KOEX-07/README.md).
+
 ## Concrete research tasks
 
 - [Issue #2 – Primary-source and evidence audit](https://github.com/koex-open/koex-open-coexistence/issues/2).
@@ -34,4 +38,4 @@ Use **Discussions** for open-ended debate, **Issues** for specific verifiable qu
 
 See [contributing](../CONTRIBUTING.md), [open questions](../OPEN_QUESTIONS.en.md) and [research index](../research/README.md).
 
-**Status (23 November 2026):** All five topics are live Discussions. The seven repository topics are set.
+**Status (24 November 2026):** The five original Discussions are linked. Two additional KOEX-07 topic drafts are public; dedicated Discussion threads are not yet confirmed. The seven repository topics were documented on 23 November.
