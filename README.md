@@ -26,6 +26,12 @@ Ziel ist kein Gesellschaftsentwurf, sondern ein **öffentlich kritisierbarer Bei
 
 **Diskussionen:** Die fünf Themen sind als eigenständige [GitHub-Discussions](community/README.md) eröffnet.
 
+## Aktueller Forschungsstand – KOEX-07 (v0.4)
+
+[**Gute Koexistenz – öffentliche Forschungsfassung vom 24.11.2026**](research/KOEX-07/README.md): Qualität gemeinsamer Existenzbedingungen, Sicherheit und Selbstbestimmung, Verteilung, Ressourcen- und Existenzkonflikte sowie nichtmenschliche Erkenntniszugänge. Die drei Funktionen der Leitlinien (Orientierung, Reflexion, Perspektivvermittlung) werden als methodischer Zwischenstand untersucht, ohne die Leitlinien zu ändern.
+
+Neuer [zweisprachiger Diskussionsentwurf: Wessen Perspektiven gelangen in Entscheidungen mächtiger Akteure?](community/topics/07_multispecies_perspectives.md). Kritik und Gegenbeispiele sind ausdrücklich willkommen. Der Entwurf ist öffentlich, ein eigener Discussion-Thread steht noch aus.
+
 ## Grundsätze
 
 1. **Keine Status-Vorentscheidung:** moralische Relevanz, Erleben und Personstatus künstlicher Systeme werden weder behauptet noch ausgeschlossen.
