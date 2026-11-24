@@ -19,6 +19,10 @@ Die fünf zweisprachigen Themen sind jetzt als GitHub-Discussions in der Kategor
 4. [Koexistenz zwischen mehreren KI-Systemen](https://github.com/koex-open/koex-open-coexistence/discussions/7) · [Themenentwurf](topics/04_multi_ai_coexistence.md) (Q-10/Q-11; L-08).
 5. [Erkenntnisgrenzen und unbegründete Gewissheit](https://github.com/koex-open/koex-open-coexistence/discussions/8) · [Themenentwurf](topics/05_epistemic_limits.md) (Q-08/Q-16; L-12-Entwurf).
 
+## Neues Thema in Vorbereitung – KOEX-07
+
+- [Was macht Koexistenz gut? Selbstbestimmung, Wohlergehen, Verteilung und Entwicklung](topics/06_good_coexistence_autonomy_and_development.md) — sieben offene Teilfragen. Der Themenentwurf ist öffentlich; eine eigene Discussion ist noch nicht eröffnet. Bis dahin können Beiträge unter [Issue #1](https://github.com/koex-open/koex-open-coexistence/issues/1) mit Bezug auf KOEX-07 eingestellt werden.
+
 ## Konkrete Forschungsaufgaben
 
 - [Issue #2 – Quellen- und Evidenzprüfung](https://github.com/koex-open/koex-open-coexistence/issues/2): konkrete Behauptungen und Primärquellen überprüfen.
