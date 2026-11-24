@@ -1,5 +1,11 @@
 # KOEX changelog
 
+## KOEX-07 public research update — 2026-11-24
+
+- Published [KOEX-07 v0.4](research/KOEX-07/README.md) as a public editorial consolidation of the working research (A–H), with German chapters, English orientation, counterarguments, source notes and research planning. Internal working and handoff files are excluded.
+- Published the bilingual [multispecies perspectives discussion draft](community/topics/07_multispecies_perspectives.md) and linked it in both community indexes and root READMEs. No dedicated new GitHub Discussion thread has been created through this integration.
+- Updated the research index and evidence status. Existing guideline wording and status remain unchanged; no new guideline adopted.
+
 ## GitHub Community setup — 2026-11-23
 
 - Added and verified repository topics: `ai-ethics`, `ai-welfare`, `coexistence`, `multi-agent-systems`, `open-research`, `moral-uncertainty`, `ai-governance`.
