@@ -1,10 +1,11 @@
 # Editorial and evidence status
 
-**Snapshot:** 2026-11-14 · **Repository:** public on GitHub; open to review and contributions.
+**Snapshot:** 2026-11-24 · **Repository:** public on GitHub; open to review and contributions.
 
 | Component | Current state |
 | --- | --- |
 | KOEX-00–06 conceptual analysis | Present as historical research notes |
+| KOEX-07 research | v0.4 public editorial consolidation; exploratory A–H; German substantive chapters and English orientation |
 | German guideline catalogue | v0.6 provisional, L-01–L-11 working statements; L-12 proposed revision |
 | German rationale/context | v0.2 provisional |
 | English materials | Summary/orientation only; full editorial translation pending |
@@ -23,6 +24,10 @@ The public bilingual [open invitation (Issue #1)](https://github.com/koex-open/k
 ## Community usability update — 2026-11-23
 
 A distinct KOEX visual identity is available as editable, self-contained SVG files in `assets/`. Both README pages provide newcomer-oriented navigation to bilingual `community/` pages. The five bilingual topic drafts are now live as Discussions #4–#8 in the `Ideas` category; the community indexes link each thread and preserve its Markdown source draft. Seven repository topics have been set and read back through the GitHub API. [Issue #2](https://github.com/koex-open/koex-open-coexistence/issues/2) requests primary-source verification; [Issue #3](https://github.com/koex-open/koex-open-coexistence/issues/3) requests an observable-action test design, not experiment results. The historical integrity-manifest limitation noted above remains unchanged.
+
+## Research update — 2026-11-24
+
+[KOEX-07 v0.4](research/KOEX-07/README.md) has been published as a public editorial consolidation of the working research archive, not a byte-identical archive release. It covers the quality of coexistence, safety and autonomy, distribution and survival conflicts, dynamics, development and nonhuman epistemic access. [New bilingual discussion draft](community/topics/07_multispecies_perspectives.md) is publicly readable. Dedicated Discussions for the two additional KOEX-07 topic drafts are not confirmed; feedback remains possible through Issue #1. No new guideline, no revision of L-01–L-12, no original experiment or completed full source audit. The historical manifest remains a historical snapshot.
 
 ## Ongoing evidence and source review
 
